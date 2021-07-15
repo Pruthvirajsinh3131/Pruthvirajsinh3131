@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pruthvirajsinh Vala
 - 👀 I’m interested in Android Studio and Software testing
 - 🌱 I’m currently learning Kotlin and Selenium
-- 💞️ I’m looking to collaborate on Android application
+- 💞️ I’m looking to collaborate on Mobile or Web application
 - 📫 A way to reach me pdvala3131@gmail.com
 
 <!---
